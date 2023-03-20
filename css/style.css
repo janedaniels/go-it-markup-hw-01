@@ -8,7 +8,8 @@ body {font-family: "Raleway", sans-serif;
 --color-logo1:#4D5AE5;
 --color-hoover:#404BBF;
 --color-logo2:#F4F4FD;
---color-light:#FFFFFF;} 
+--color-light:#FFFFFF;
+--color-border:#E7E9FC} 
         .header {background: var(--color-light);
             border-bottom: 1px solid #E7E9FC;}
         .header-logo-web {font-family: "Raleway";
