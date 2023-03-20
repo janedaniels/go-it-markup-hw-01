@@ -9,7 +9,6 @@ body {font-family: "Raleway", sans-serif;
 --color-hoover:#404BBF;
 --color-logo2:#F4F4FD;
 --color-light:#FFFFFF;} 
-
         .header {background: var(--color-light);
             border-bottom: 1px solid #E7E9FC;}
         .header-logo-web {font-family: "Raleway";
@@ -44,7 +43,6 @@ body {font-family: "Raleway", sans-serif;
             line-height: 1.5;
             letter-spacing: 0.02em;
             color: var(--color-text);}
-
         .header-tel {
             font-weight: 400;
             font-size: 16px;
@@ -57,8 +55,6 @@ body {font-family: "Raleway", sans-serif;
         .header-tel:focus {color: var(--color-hoover)}
         .header-mail:focus {color: var(--color-hoover);}
         .header-link:focus {color: var(--color-hoover);}
-
-
 .footer-logo {
     font-family: "Raleway";
     font-style: normal;
@@ -71,7 +67,6 @@ body {font-family: "Raleway", sans-serif;
     text-transform: uppercase;
     color: var(--color-logo2);
     background: var(--brand-color);}
-
 .footer-text {
     font-size: 16px;
     line-height: 1.5;
